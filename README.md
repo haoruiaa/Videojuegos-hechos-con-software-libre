@@ -1,1 +1,1 @@
-En este trabajo de investigación se realizó en los años 2023-2024 y se utiliza Godot 4.2.1.
+En este trabajo de investigación se realizó en los años 2023-2024 y se utiliza Godot 4.2.1. Como no he podido añadir las carpetas del videojuego, puse los sprites y los códigos que he utilizado, además de añadir un documento (LEANLO POR FAVOR).
